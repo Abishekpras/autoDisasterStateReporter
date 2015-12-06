@@ -11,7 +11,6 @@ Idea here is to create a network of camera bots that can update the situation of
 3. The timings for the update is 6 hours apart.
 
 ###Contribution possibilities
-You could contribute to the code in multiple ways:
 1. Make it more efficient so it is lighter on power usage.
 2. Use this as a boiler plate, map the areas using GPS location and put it up on a map.
 3. Test the code.
